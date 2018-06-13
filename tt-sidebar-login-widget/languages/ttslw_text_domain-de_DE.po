@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sidebar Login Widget\n"
+"POT-Creation-Date: 2014-06-03 21:24+1000\n"
+"PO-Revision-Date: 2014-06-03 21:56+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: tt-sidebar-login.php:68
+msgid "Title"
+msgstr "Titel"
+
+#: tt-sidebar-login.php:86
+msgid "Show Avatar"
+msgstr "Avatar anzeigen"
+
+#: tt-sidebar-login.php:99
+msgid "Show Dashboard Link"
+msgstr "Link-Übersicht anzeigen"
+
+#: tt-sidebar-login.php:112
+msgid "Show Profile Link"
+msgstr "Zeigen Sie Profil-Link"
+
+#: tt-sidebar-login.php:125
+msgid "Show Remember me"
+msgstr "Zeige Angemeldet bleiben"
+
+#: tt-sidebar-login.php:138
+msgid "Show Register Link"
+msgstr "Link-Register anzeigen"
+
+#: tt-sidebar-login.php:151
+msgid "Show Forgotten Password Link"
+msgstr "Anzeigen Link Passwort vergessen"
+
+#: tt-sidebar-login.php:164
+msgid "Show Post Count"
+msgstr "Beitrag zeigen Graf"
+
+#: tt-sidebar-login.php:182
+msgid "Member's Login"
+msgstr "Mitglieder-Login"
+
+#: tt-sidebar-login.php:192
+msgid "Welcome"
+msgstr "willkommen"
+
+#: tt-sidebar-login.php:209
+msgid "Enter both Username and Password"
+msgstr "Geben Sie sowohl Benutzernamen und Passwort"
+
+#: tt-sidebar-login.php:212
+msgid "Username is not registered"
+msgstr "Benutzername ist nicht registriert"
+
+#: tt-sidebar-login.php:215
+msgid "Incorrect Password"
+msgstr "Falsche Passwort"
+
+#: tt-sidebar-login.php:236
+msgid "Logged in as "
+msgstr "Eingeloggt als "
+
+#: tt-sidebar-login.php:239
+msgid "Posts by you"
+msgstr "Beiträge von Ihnen"
+
+#: tt-sidebar-login.php:248
+msgid "Dashboard"
+msgstr "Armaturenbrett"
+
+#: tt-sidebar-login.php:251
+msgid "Profile"
+msgstr "Profil"
+
+#: tt-sidebar-login.php:253
+msgid "Logout"
+msgstr "Abmelden"
+
+#: tt-sidebar-login.php:265
+msgid "Username"
+msgstr "Benutzername"
+
+#: tt-sidebar-login.php:266
+msgid "Password"
+msgstr "Passwort"
+
+#: tt-sidebar-login.php:272
+msgid "Register"
+msgstr "registrieren"
+
+#: tt-sidebar-login.php:274
+msgid "Forgot Password?"
+msgstr "Passwort vergessen?"
+
+#: tt-sidebar-login.php:317
+msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
+msgstr ""
+
+#: tt-sidebar-login.php:336
+msgid "Hello World"
+msgstr ""
